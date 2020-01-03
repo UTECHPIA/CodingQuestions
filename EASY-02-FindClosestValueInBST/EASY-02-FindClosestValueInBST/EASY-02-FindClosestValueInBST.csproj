@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{66B8E428-7517-4314-9134-7B234D91B4A2}</ProjectGuid>
+    <ProjectGuid>{CC79622A-810D-4639-AA76-714AEF1D4121}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01_Easy_TwoNumberSum</RootNamespace>
-    <AssemblyName>01-Easy-TwoNumberSum</AssemblyName>
+    <RootNamespace>EASY_02_FindClosestValueInBST</RootNamespace>
+    <AssemblyName>EASY-02-FindClosestValueInBST</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
