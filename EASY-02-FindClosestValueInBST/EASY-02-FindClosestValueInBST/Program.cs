@@ -35,8 +35,30 @@ namespace EASY_02_FindClosestValueInBST
 {
     class Program
     {
+        public static int FindClosestValueInBst(BST tree, int target)
+        {
+
+            return -1;
+        }
+
+        public class BST
+        {
+            public int value;
+            public BST left;
+            public BST right;
+
+            public BST(int value)
+            {
+                this.value = value;
+            }
+        }
         static void Main(string[] args)
         {
+
+
+
+
+
         }
     }
 }
