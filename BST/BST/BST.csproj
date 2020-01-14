@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CC79622A-810D-4639-AA76-714AEF1D4121}</ProjectGuid>
+    <ProjectGuid>{76659F20-3395-44C9-895C-3CE24219528C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>EASY_02_FindClosestValueInBST</RootNamespace>
-    <AssemblyName>EASY-02-FindClosestValueInBST</AssemblyName>
+    <RootNamespace>BST</RootNamespace>
+    <AssemblyName>BST</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
