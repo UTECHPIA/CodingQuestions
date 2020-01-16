@@ -164,18 +164,31 @@ namespace BinarySearchTree
 
         static void Main()
         {
+            Console.Write("Hello1");
             BinarySearchTree nums = new BinarySearchTree();
+            Console.Write("Hello2");
             nums.Insert(50);
+            Console.Write("Hello3");
             nums.Insert(17);
+            Console.Write("Hello4");
             nums.Insert(23);
+            Console.Write("Hello5");
             nums.Insert(12);
+            Console.Write("Hello6");
             nums.Insert(19);
+            Console.Write("Hello7");
             nums.Insert(54);
+            Console.Write("Hello8");
             nums.Insert(9);
+            Console.Write("Hello9");
             nums.Insert(14);
+            Console.Write("Hello10");
             nums.Insert(67);
+            Console.Write("Hello11");
             nums.Insert(76);
+            Console.Write("Hello12");
             nums.Insert(72);
+            Console.Write("Hello13");
         }
     }
 
