@@ -190,6 +190,8 @@ namespace BinarySearchTree
             nums.Insert(72);
             Console.Write("13");
 
+
+
         }
     }
 
